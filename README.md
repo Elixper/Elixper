@@ -21,4 +21,4 @@ I'm a **freelance FullStack Developer** and **Web Designer**
 - 💬 Ask me about Javascript/Typescript
 - 📫 To reach me, write me on <a href="https://www.linkedin.com/in/ludwig-pereira/">LinkedIn</a> [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/ludwig-pereira/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: fluently speak 4 languages 🇫🇷 🇬🇧 🇵🇹 🇪🇸 & trying to learn 🇩🇪
+- ⚡ Fun fact: I speak fluently 4 languages 🇫🇷 🇬🇧 🇵🇹 🇪🇸 & trying to learn 🇩🇪
