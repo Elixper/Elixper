@@ -9,9 +9,9 @@ I'm a **freelance FullStack Developer** and **Web Designer**
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/ludwig-pereira/) <a href="https://www.linkedin.com/in/ludwig-pereira/">&nbsp;My LinkedIn</a>
 
 ### Skills
-- React/hooks
-- HTML/CSS/JavaScript/TypeScript
-- MongoDB/Express/SQL
+- ⚛️ React/hooks
+- 🖼 HTML/CSS/JavaScript/TypeScript
+- 💻 MongoDB/Express/SQL
 ---
 ### What's up?
 - 🔭 I’m currently working on a React.js reboot of my portoflio
@@ -21,4 +21,4 @@ I'm a **freelance FullStack Developer** and **Web Designer**
 - 💬 Ask me about Javascript/Typescript
 - 📫 To reach me, write me on <a href="https://www.linkedin.com/in/ludwig-pereira/">LinkedIn</a> [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/ludwig-pereira/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I speak fluently 4 languages 🇫🇷 🇬🇧 🇵🇹 🇪🇸 & trying to learn 🇩🇪
+- ⚡ Fun fact: I speak fluently 4 languages 🇫🇷 🇬🇧 🇵🇹 🇪🇸 and I am trying to learn 🇩🇪
