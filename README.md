@@ -1,16 +1,12 @@
 ### Hi there I'm Ludwig <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%">
-I'm a _freelance FullStack Developer_ and _occasional Web Designer_
+I'm a **freelance FullStack Developer** and **Web Designer**
 
 <p>I have been helping companies build their websites and e-commerce on CMS platforms (Webflow, WordPress) for more than one year and a half.
 </p>
 
-@icn-camera
+- 🔗&nbsp;<a href="https://portfoliolud.webflow.io/">My portfolio</a> &nbsp;
 
-<p align="center">
- <a href="https://portfoliolud.webflow.io/">My portfolio</a>
- 
- [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/ludwig-pereira/) <a href="https://www.linkedin.com/in/ludwig-pereira/">My LinkedIn</a>
-</p>
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/ludwig-pereira/) <a href="https://www.linkedin.com/in/ludwig-pereira/">&nbsp;My LinkedIn</a>
 
 ### Skills
 - React/hooks
@@ -25,4 +21,4 @@ I'm a _freelance FullStack Developer_ and _occasional Web Designer_
 - 💬 Ask me about Javascript/Typescript
 - 📫 To reach me, write me on <a href="https://www.linkedin.com/in/ludwig-pereira/">LinkedIn</a> [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/ludwig-pereira/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: fluently speak 4 languages 🇫🇷 🇬🇧 🇵🇹 🇪🇸 & trying to learn 🇩🇪
