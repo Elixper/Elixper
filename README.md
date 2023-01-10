@@ -7,7 +7,7 @@ I'm a **freelance FullStack Developer** and **Web Designer**
 - 🔗&nbsp;<a href="https://portfoliolud.webflow.io/">My portfolio</a> &nbsp;
 
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/ludwig-pereira/) <a href="https://www.linkedin.com/in/ludwig-pereira/">&nbsp;My LinkedIn</a>
-
+---
 ### Skills
 - ⚛️ React/hooks
 - 🖼 HTML/CSS/JavaScript/TypeScript
