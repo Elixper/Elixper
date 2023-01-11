@@ -5,7 +5,7 @@ I'm a **freelance FullStack Developer** and **Web Designer**
 </p>
 
 [![Portfolio Website URL](https://img.shields.io/badge/portfolio-4353FF?style=for-the-badge&logo=webflow&logoColor=white)](https://portfoliolud.webflow.io/)
-[![Contact information](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ludwig.m.pereira@gmail.com)
+[![Contact information](https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ludwig.m.pereira@gmail.com)
 [![LinkedIn Profile URL](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludwig-pereira/)
 
 <!---
