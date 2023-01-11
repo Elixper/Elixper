@@ -4,7 +4,7 @@ I'm a **freelance FullStack Developer** and **Web Designer**
 <p>I have been helping companies build their websites and e-commerce on CMS platforms (Webflow, WordPress) for more than one year and a half.
 </p>
 
-[![Portfolio Website URL](https://img.shields.io/badge/portfolio-4353FF?style=for-the-badge&logo=webflow&logoColor=white)](https://https://portfoliolud.webflow.io/)
+[![Portfolio Website URL](https://img.shields.io/badge/portfolio-4353FF?style=for-the-badge&logo=webflow&logoColor=white)](https://portfoliolud.webflow.io/)
 [![Contact information](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ludwig.m.pereira@gmail.com)
 [![LinkedIn Profile URL](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludwig-pereira/)
 
