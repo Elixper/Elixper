@@ -34,7 +34,7 @@ I'm a **freelance FullStack Developer** and **Web Designer**
 ---
 ### What's up?
 - 🔭 I’m currently working on a React.js reboot of my portoflio
-- 🌱 I’m currently learning three.js and SQL
+- 🌱 I’m currently learning SQL and Jest
 - 👯 I’m looking to collaborate on new projects and opensource
 - 🤔 I’m looking for help with opensource projects and 
 - 💬 Ask me about Javascript/Typescript
